@@ -670,3 +670,6 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/x-squad-mono-logo.p
 https://media.contentapi.ea.com/content/dam/gin/common/logos/yahtzee-adventures-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/zubo-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/zumas-revenge-mono-logo.png
+https://media.contentapi.ea.com/content/dam/ea/dragonage/inquisition-refresh/common/logos/dai-nav-logo.svg
+https://media.contentapi.ea.com/content/dam/eacom/dragon-age/dragon-age-dreadwolf/common/dragon-age-logo-550px.svg
+https://media.contentapi.ea.com/content/dam/eacom/dragon-age/common/da-nav-logo-franchise-white.svg
